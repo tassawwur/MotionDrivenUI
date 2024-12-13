@@ -1,3 +1,10 @@
+"homepage": "https://tassawwur.github.io/MotionDrivenUI",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+
+
 {
   "name": "docs",
   "private": true,
